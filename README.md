@@ -45,7 +45,7 @@ npm run dev
     
 ## 🌍 Deploy
 
-PO projeto está disponível online na Vercel:
+O projeto está disponível online na Vercel:
 🔗 Acesse aqui http://controle-de-pedidos-livid.vercel.app
 
 📌 Futuras melhorias
